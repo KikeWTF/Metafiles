@@ -1,0 +1,5 @@
+Contact: mailto:hola+securitytxt@kike.wtf
+Expires: 2024-04-30T22:00:00.000Z
+Preferred-Languages: en,es
+Acknowledgments: https://kike.wtf/hall-of-fame.html
+Canonical: https://kike.wtf/.well-known/security.txt
